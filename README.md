@@ -9,7 +9,7 @@
 
 有兴趣者可以私聊 Daily life
 
-![alt text]([https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true](https://github.com/Mavrick-mao/simcompanies/blob/main/%E5%A4%A7%E4%BD%AC%EF%BC%8C%E9%A5%BF%EF%BC%8C%E9%A5%AD%E9%A5%AD.png))
+![alt text](https://github.com/Mavrick-mao/simcompanies/blob/main/%E5%A4%A7%E4%BD%AC%EF%BC%8C%E9%A5%BF%EF%BC%8C%E9%A5%AD%E9%A5%AD.png?raw=true)
 
 ## 目录
 ## 协会成员：
